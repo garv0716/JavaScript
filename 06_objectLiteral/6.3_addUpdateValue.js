@@ -14,3 +14,15 @@ console.log(student);
 
 student.country = "India";
 console.log(student);   
+
+
+/* Notes 
+
+ for deleting
+ syntax => {delete objectName.keyName}
+
+ => to get random maths value
+    - maths.random() => gives random value between 0 and 1
+    - to get random value between 0 and n => math.random() * n
+    - to get random value between m and n => math.random() * (n-m) + m
+*/
