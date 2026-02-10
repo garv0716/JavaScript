@@ -1,8 +1,8 @@
 const student = {
     name: "Garv",
     age: 23,
-    marks: 94.4
-    city: "Jhansi"
+    marks: 94.4,
+    city: "Jhansi" 
 };
 
 // task is to update the city to "Lucknow"
