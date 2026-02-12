@@ -5,4 +5,6 @@ const data = {
 const copyData = {...data, age: 28};
 console.log(copyData)
 
+// we caan also store the array & string in the object 
+// in key it store: index
 
