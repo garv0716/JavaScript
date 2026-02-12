@@ -40,5 +40,5 @@ this keyword behave differentialy with both of the function
   -> summary
   * normal function ke liye this hota hai jo object usse call laga rahii hai'
   * arrow function ke liye this hota hai, humare parent ko call lagane wali object
-
+  
 */
