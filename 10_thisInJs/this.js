@@ -2,7 +2,7 @@ const student = {
     name: "shradha",
     age: 23,
     eng: 99,
-    maths: 60,
+    math: 60,
     biology: 100,
     get avg(){
         let avg = (this.eng + this.maths + this.biology)/3;
